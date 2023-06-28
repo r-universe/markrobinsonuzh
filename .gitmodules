@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DAMEfinder"]
 	path = DAMEfinder
 	url = https://github.com/markrobinsonuzh/damefinder
-	shallow = true
-	registered = true
 [submodule "flagme"]
 	path = flagme
 	url = https://git.bioconductor.org/packages/flagme
-	shallow = true
-	registered = true
 [submodule "gsmoothr"]
 	path = gsmoothr
 	url = https://github.com/cran/gsmoothr
-	shallow = true
-	registered = true
 [submodule "Repitools"]
 	path = Repitools
 	url = https://git.bioconductor.org/packages/Repitools
-	shallow = true
-	registered = true
