@@ -2,15 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "DAMEfinder"]
-	path = DAMEfinder
-	url = https://github.com/markrobinsonuzh/damefinder
-[submodule "Repitools"]
-	path = Repitools
-	url = https://github.com/markrobinsonuzh/repitools
-[submodule "flagme"]
-	path = flagme
-	url = https://git.bioconductor.org/packages/flagme
 [submodule "gsmoothr"]
 	path = gsmoothr
 	url = https://github.com/cran/gsmoothr
